@@ -16,11 +16,18 @@ canvas {
 	/*background-size: 1366px;*/
 }
 
-p {
+.title {
   color: white;
   display: inline;
   position: absolute;
   font-size: 4rem;
   font-weight: bold;
-  
+}
+
+.text {
+  color: white;
+  display: inline;
+  position: absolute;
+  font-size: 1rem;
+  top: 80%;
 }
